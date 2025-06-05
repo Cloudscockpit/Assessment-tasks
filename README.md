@@ -19,6 +19,6 @@ Let's go ahead and test your AI agent-building capabilities. Design and implemen
 
 You are free to use any methods and frameworks. Don't hesitate to submit unfinished tasks. You will be marked based on the portion you deliver.
 
-### Task C (Optional)
+## Task C (Optional)
 - What do you know about MCP?
 - How do you build an MCP server? Give Psudocode.
