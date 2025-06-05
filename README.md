@@ -1,4 +1,5 @@
 # Assessment-tasks
+You are free to use any methods and frameworks. Don't hesitate to submit unfinished tasks. **You will be marked based on the portion you deliver and how readable your code is.**
 
 ## Task A: Data Analytics ✨
 The Student Social Media & Relationships dataset contains anonymized records of students’ social‐media behaviors and related life outcomes. It spans multiple countries and academic levels, focusing on key dimensions such as usage intensity, platform preferences, and relationship dynamics. Each row represents one student’s survey response, offering a cross‐sectional snapshot.
@@ -17,8 +18,7 @@ Let's go ahead and test your AI agent-building capabilities. Design and implemen
 - Answers user queries based on the summarized information.
 - Provides citations (source references) for the answers.
 
-You are free to use any methods and frameworks. Don't hesitate to submit unfinished tasks. You will be marked based on the portion you deliver.
 
-## Task C (Optional)
+## Task C (Optional 🤗)
 - What do you know about MCP?
 - How do you build an MCP server? Give Psudocode.
